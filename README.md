@@ -1,4 +1,4 @@
-# Medium-Python-Data-Manipulation
+# Python-Medium-Data-Manipulation
 
 Codes for Practical Data Manipulation series in [my Medium page](https://peisyuanli.medium.com/)
 
